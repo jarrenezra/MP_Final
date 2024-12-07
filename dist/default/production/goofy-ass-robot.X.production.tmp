@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.43</VERSION>
+ <DEVICE>AVR64DU32</DEVICE>
+ <WORKING_DIR>C:\Users\jarre\OneDrive\Documents\Academic\Engineering\AVR64DU32 Microcontroller\EEL4744-final-project\goofy-ass-robot.X</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Users/jarre/.mchp_packs/Microchip/AVR-Dx_DFP/2.6.303/avrasm/inc</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>usart_motors1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>AVR64DU32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>dist/default/production/goofy-ass-robot.X.production.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>dist/default/production/goofy-ass-robot.X.production.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>dist/default/production/goofy-ass-robot.X.production.map</FILE>
+  <FILE>dist/default/production/goofy-ass-robot.X.production.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>usart_motors1.asm</FILE><LINE>38</LINE></Main>
+  <ReceiveISR><FILE>usart_motors1.asm</FILE><LINE>102</LINE></ReceiveISR>
+  <Transmit><FILE>usart_motors1.asm</FILE><LINE>86</LINE></Transmit>
+  <DelaySR1><FILE>usart_motors1.asm</FILE><LINE>220</LINE></DelaySR1>
+  <CheckLowByte0><FILE>usart_motors1.asm</FILE><LINE>129</LINE></CheckLowByte0>
+  <CheckLowByte1><FILE>usart_motors1.asm</FILE><LINE>124</LINE></CheckLowByte1>
+  <MoveFast><FILE>usart_motors1.asm</FILE><LINE>161</LINE></MoveFast>
+  <StartSpinning><FILE>usart_motors1.asm</FILE><LINE>135</LINE></StartSpinning>
+  <MoveSlow><FILE>usart_motors1.asm</FILE><LINE>149</LINE></MoveSlow>
+  <SpeedUpMotorA><FILE>usart_motors1.asm</FILE><LINE>211</LINE></SpeedUpMotorA>
+  <SlowMotorB><FILE>usart_motors1.asm</FILE><LINE>193</LINE></SlowMotorB>
+  <Spin><FILE>usart_motors1.asm</FILE><LINE>183</LINE></Spin>
+  <SlowMotorA><FILE>usart_motors1.asm</FILE><LINE>198</LINE></SlowMotorA>
+  <Forward><FILE>usart_motors1.asm</FILE><LINE>174</LINE></Forward>
+  <SpeedUpMotorB><FILE>usart_motors1.asm</FILE><LINE>205</LINE></SpeedUpMotorB>
+  <OF_FLAG1><FILE>usart_motors1.asm</FILE><LINE>224</LINE></OF_FLAG1>
+ </LABELS>
+</ASSEMBLER_INFO>
